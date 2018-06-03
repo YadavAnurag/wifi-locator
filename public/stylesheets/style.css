@@ -1,3 +1,13 @@
 body{
+  background-color: aqua;
   color: indigo;
+}
+nav{
+  background-color: indigo;
+}
+nav > a{
+  color: white;
+}
+.list{
+  list-style-type: none;
 }
